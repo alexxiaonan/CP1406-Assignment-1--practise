@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#pricepage{
+	text-align:center; margin:1em; padding-left:4em; padding-right:4em;}
+.1.1{
+	color:gray;}
+table{
+	border::1px solid #000000;}
+#back1 a{
+	color:black; text-decoration:underline;}
+#back1 a:hover{
+	color:gray;}
+#back1 a:active{
+	color:blue;}

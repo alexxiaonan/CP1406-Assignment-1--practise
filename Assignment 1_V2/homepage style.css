@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+.intro{
+	font-size:2.3em;color:gray }
+#intro{
+	clear:both; float:inherit;margin-bottom:1em; margin-left:3em; margin-top:4em; padding-left:200px;}
+#intro h2{
+	padding-lift:100px;}
+#intro h3{
+	padding:2em; padding-top:01px; padding-bottom:0.3px;}
+
+#main{
+	position:relative; left:180px;}
+#main a{
+	text-decoration:none;}
+	
+#announce{
+	padding:0; margin:0; padding-left:280px; padding-top:2em; padding-bottom:-2em;}
+#announce1{
+	margin:1em; margin-top:-1em; margin-bottom:-1em; padding:4em;}
+	
+#img1{
+	padding:0; margin:0;}
+#img2{
+	 float:left; padding:0; margin:0;}
+#img3{
+	position:relative; float:left; padding:0; margin:0;}
+
+.countact0{
+	position:relative; float:none;}
+.contact1{
+	position:relative; float:left; margin:-1px; padding-left:80px;}
+body{
+	background:url(background.jpg) no-repeat; 
+	background-position:top left;
+	
+}
