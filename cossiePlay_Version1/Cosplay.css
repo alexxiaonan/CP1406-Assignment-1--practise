@@ -1,0 +1,8 @@
+@charset "UTF-8";
+/* CSS Document */
+#whole1{
+	margin:1em; padding:0; padding-left:2em; padding-right:2em;}
+.tittle{
+	text-align:center; padding-top:30px;}
+#text1{
+	width:400px;clear:both;float:left}
