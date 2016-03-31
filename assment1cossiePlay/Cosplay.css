@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+.container{
+	right:7px;}
+#whole1{
+	margin:1em; padding:0; padding-left:3em; padding-right:3em;}
+.tittle{
+	text-align:center;}
+#text1{
+	width:400px; height:500px; clear:both; float:left; margin-right:50px;}

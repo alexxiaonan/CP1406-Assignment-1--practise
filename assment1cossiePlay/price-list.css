@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#pricepage{
+	text-align:center; margin:1em; padding-left:3em; padding-right:3em;}
+.listhead{
+	text-align:center; text-decoration:none;}
+.listhead{
+	padding-top:0px; padding-bottom:0;}
+#table{
+	padding:10px 160px 10px 160px; margin:0 auto; text-align:left;}
+#back1 a{
+	color:black; text-decoration:none;}
+#back1 a:hover{
+	color:gray;}
+#back1 a:active{
+	color:blue;}
+.c1 {
+	text-align:center; background-color:#00D6FF;}
+.c2 {
+	text-align:center; background-color:#00D6FF;}
+.c3 {
+	text-align:center; background-color:#00D6FF;}

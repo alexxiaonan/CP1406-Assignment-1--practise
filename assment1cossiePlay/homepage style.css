@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+#backpicture{
+	position:absolute;}
+#intro{
+	position:absolute; font-size:2.3em;color:gray; left:60px; top:50px}
+#intro{
+	clear:both; float:inherit;margin-bottom:1em; margin-left:3em; margin-top:4em; padding-left:200px;}
+#intro h2{
+	padding-lift:100px;}
+#intro h3{
+	padding:2em; padding-top:01px; padding-bottom:0.3px;}
+#main{
+	position:relative; left:180px;}
+#main a{
+	text-decoration:none; color:red;}
+
+#img1{ 
+	width:270px; position:relative; top:520px; left:310px;}
+#img2{
+	width:270px; position:relative; top:265px; left:25px;}
+#img3{
+	width:270px; position:relative; top:7px; left:600px}
+
